@@ -2,6 +2,6 @@
 
 	echo "Olá mundo!";
 
-	echo "Olá Luan Luiz";
+	echo "Olá Luan Luiz!";
 	
 ?>
